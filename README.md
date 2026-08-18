@@ -18,7 +18,6 @@
 
 ## 3. PROCESS FLOW:
 
-```text
 Start
   ↓
 Enter Student Details
