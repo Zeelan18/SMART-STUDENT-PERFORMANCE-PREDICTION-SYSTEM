@@ -189,16 +189,11 @@ Recommendation : Maintain current study pattern and attendance
 - Recommendation
 
 ---
+## 10. Proposed System Architecture
 
-### 10. Workflow
+The proposed system architecture illustrates the overall workflow of the Smart Student Performance Prediction System, including data collection, preprocessing, prediction, and performance analysis.
 
-                    User clicks predict
-                           ↓
-                    Button generates event
-                           ↓
-                    callback function executes
-                           ↓
-                     python processing starts
+![Proposed System Architecture](screenshots/work1.jpeg)
 
                
 ### 11. UI Design Requirements
@@ -228,7 +223,7 @@ The application should contain:
 
 ---
 
-###12.Using Frames (organize a large application)
+### 12.Using Frames (organize a large application)
 
 **Main Window**
 - Header frame
@@ -236,4 +231,21 @@ The application should contain:
 - Academic information frame
 - Action frame
 - Result frame
+
+### 13. Workflow
+
+                    User clicks predict
+                           ↓
+                    Button generates event
+                           ↓
+                    callback function executes
+                           ↓
+                     python processing starts
+
+
+## 14. UI EXAMPLE
+
+The following screenshot shows an example of the user interface of the Smart Student Performance Prediction System.
+
+![UI Example](screenshots/work2.jpeg)
 
