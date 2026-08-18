@@ -151,5 +151,89 @@ Risk Level: Low
 Recommendation : Maintain current study pattern and attendance 
 
 
+### 8.Objective
+- Understand the **System Design phase** of the V-Model.
+- Convert Day 1 requirements into a software architecture.
+- Design the workflow of the Smart Student Performance Prediction System.
+- Understand the fundamentals of **GUI development using Tkinter**.
+- Create windows, frames, labels, input fields, buttons, and message boxes.
+- Apply layout management using `pack()`, `grid()`, and `place()`.
+- Implement event-driven programming using button callbacks.
+- Validate user inputs.
+- Develop a functional **Tkinter prototype** for the student performance prediction system.
 
+---
+
+### 9.From Requirements to System Design
+
+**1. Inputs**
+- Student ID
+- Student Name
+- Attendance %
+- Study Hours
+- Internal Marks
+- Assignment Completion %
+- Previous Academic Performance
+
+**2. Processing**
+- Validate input
+- Preprocess data
+- Send data to ML model
+- Generate prediction
+- Generate recommendation
+
+**3. Outputs**
+- Predicted performance
+- Performance category
+- Risk level
+- Recommendation
+
+---
+
+### 10. Workflow
+
+                    User clicks predict
+                           ↓
+                    Button generates event
+                           ↓
+                    callback function executes
+                           ↓
+                     python processing starts
+
+               
+### 11. UI Design Requirements
+
+The application should contain:
+
+**1. Student Information Section**
+- Student ID
+- Student Name
+
+**2. Academic Information Section**
+- Attendance
+- Study Hours
+- Internal Marks
+- Assignment Completion
+- Previous Performance
+
+**3. Action Section**
+- Predict Performance
+- Clear
+- Exit
+
+**4. Result Section**
+- Predicted Performance
+- Risk Level
+- Recommendation
+
+---
+
+###12.Using Frames (organize a large application)
+
+**Main Window**
+- Header frame
+- Student information frame
+- Academic information frame
+- Action frame
+- Result frame
 
