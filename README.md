@@ -263,7 +263,7 @@ The following screenshot shows an example of the user interface of the Smart Stu
 
 ---
 
-## Objective
+## 15:Objective
 
 - Understand the fundamentals of **Machine Learning (ML)**
 - Differentiate between traditional programming and ML-based systems
@@ -276,7 +276,7 @@ The following screenshot shows an example of the user interface of the Smart Stu
 
 ---
 
-## Traditional Programming vs ML
+## 16:Traditional Programming vs ML
 
 | Traditional Programming | Machine Learning |
 |---|---|
@@ -286,7 +286,7 @@ The following screenshot shows an example of the user interface of the Smart Stu
 
 ---
 
-## ML Workflow
+## 17:ML Workflow
 
 ```
 Data Collection
@@ -304,7 +304,7 @@ Prediction
 
 ---
 
-## ML Workflow — Activities
+## 18:ML Workflow — Activities
 
 **Activity 1 – Dataset Creation**
 - Create student dataset in CSV
@@ -334,7 +334,7 @@ Prediction
 
 ---
 
-##  Outcomes:
+## 19: Outcomes:
 
 Should complete:
 - Dataset (CSV file)
@@ -345,3 +345,26 @@ Should complete:
 - Saved model file (.pkl)
 -
 
+
+## Page 20: Model Selection
+
+*Algorithms Introduced*
+- Logistic Regression (Primary)
+- Decision Tree (optional)
+- Random Forest (advanced)
+
+---
+
+## Page 21: Model Evaluation
+
+- Confusion Matrix
+
+---
+
+## Page 22: Improving the Model
+
+- Increase dataset size
+- Feature selection
+- Try different algorithms
+- Tune parameters
+-
