@@ -1,5 +1,10 @@
 # Smart Student Performance Prediction System
 
+# Day 1 — PROBLEM DEFINING
+
+---
+
+
 ## 1. PROBLEM STATEMENT:
 
 - Student performance is influenced by multiple academic and behavioral factors.
@@ -164,6 +169,11 @@ Recommendation : Maintain current study pattern and attendance
 
 ---
 
+# Day 2 — SYSYEM DESIGN
+
+---
+
+
 ### 9.From Requirements to System Design
 
 **1. Inputs**
@@ -249,7 +259,7 @@ The following screenshot shows an example of the user interface of the Smart Stu
 
 ![UI Example](screenshots/work2.jpeg)
 
-# Day 3 — Machine Learning Fundamentals
+# Day 3 — MACHINE LEARNING FUNDAMENTALS
 
 ---
 
