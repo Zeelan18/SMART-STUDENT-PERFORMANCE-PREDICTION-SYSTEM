@@ -346,7 +346,7 @@ Should complete:
 -
 
 
-## Page 20: Model Selection
+## 20: Model Selection
 
 *Algorithms Introduced*
 - Logistic Regression (Primary)
@@ -355,16 +355,80 @@ Should complete:
 
 ---
 
-## Page 21: Model Evaluation
+##  21: Model Evaluation
 
 - Confusion Matrix
 
 ---
 
-## Page 22: Improving the Model
+## 22: Improving the Model
 
 - Increase dataset size
 - Feature selection
 - Try different algorithms
 - Tune parameters
--
+
+# Day 4 — AI INTEGRATION
+
+## 23: Current Status & Next Step
+
+*Current Status*
+- UI Ready
+- ML Model Ready
+
+*Next Step (Day 4)*
+- Integrate ML model with Tkinter UI
+- Add AI-based recommendations
+- Perform testing
+
+---
+
+## 24: Complete Intelligent Application
+
+
+Tkinter UI (Day 2)
+        +
+ML Model (Day 3)
+        +
+AI Recommendation Logic
+        =
+Complete Intelligent Application
+
+
+*Flow:*
+
+
+Tkinter UI (inputs)
+      ↓
+Load Saved Model (.pkl)
+      ↓
+Send input to model
+      ↓
+Get prediction
+      ↓
+Display in UI
+
+
+---
+
+## 25: n8n Workflow Screenshot
+
+![n8n Screenshot](REPLACE_WITH_LINK)
+
+---
+
+## 26: Main UI Screenshot
+
+![Main UI Screenshot](REPLACE_WITH_LINK)
+
+---
+
+## 27: Excel Screenshot
+
+![Excel Screenshot](REPLACE_WITH_LINK)
+
+---
+
+## 28: Gmail Screenshot
+
+![Gmail Screenshot](REPLACE_WITH_LINK)
