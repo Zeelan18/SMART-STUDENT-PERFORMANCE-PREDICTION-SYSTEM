@@ -413,22 +413,24 @@ Display in UI
 
 ## 25: n8n Workflow Screenshot
 
-![n8n Screenshot](REPLACE_WITH_LINK)
+![n8n Screenshot](screenshots/work7.png)
 
 ---
 
 ## 26: Main UI Screenshot
 
-![Main UI Screenshot](REPLACE_WITH_LINK)
+![Main UI Screenshot](screenshots/work4.png)
 
 ---
 
 ## 27: Excel Screenshot
 
-![Excel Screenshot](REPLACE_WITH_LINK)
+![Excel Screenshot](screenshots/work5.png)
 
 ---
 
 ## 28: Gmail Screenshot
 
-![Gmail Screenshot](REPLACE_WITH_LINK)
+![Gmail Screenshot](screenshots/work6.png)
+
+# -----------------------------------------------------------THE END --------------------------------------------------------------
